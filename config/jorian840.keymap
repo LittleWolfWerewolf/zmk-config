@@ -74,7 +74,7 @@
 //       |     |     |     |     |     |     |   |     |     |     |     |     |     |
 //                         |     |     |     |   |     |     |     |
                         bindings = <
-   &trans &trans &kp 1   &kp 2    &kp 3    &kp 4    &kp 5                 &kp 6     &kp 7     &kp 8    &kp 9   &kp 0    &trans &trans
+   &trans &trans &kp KP_1   &kp KP_2    &kp KP_3    &kp KP_4    &kp KP_5                 &kp KP_6     &kp KP_7     &kp KP_8    &kp KP_9   &kp KP_0    &trans &trans
           &trans &trans  &trans   &trans   &trans   &trans                &kp MINUS &kp EQUAL &kp STAR &trans  &trans   &trans
           &trans &trans  &trans   &trans   &trans   &trans                &trans    &trans    &trans   &trans  &trans   &trans
                                     &lt ADJ TAB &trans &trans   &trans &trans &lt ADJ DEL
